@@ -4,6 +4,8 @@
 
 #### Run the code in Colab
 
+#### Project is for portfolio purposes and will not be updated
+
 #### Overview
 The Two-Sided Market Model is an interactive simulation tool designed for entrepreneurs and business leaders to evaluate and understand the dynamics of a two-sided marketplace. In such a marketplace, there are two distinct groups: consumers and providers. The tool helps users visualize how these groups grow and interact over time, considering various factors like attrition rates, growth rates, and market saturation points.
 
